@@ -1,0 +1,9 @@
+<resources>
+    <string name="temp">20&#xb0;</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="_29oc">29&#xb0;C</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+</resources>
